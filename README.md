@@ -2,6 +2,8 @@
 
 Cette application est une simple **todo list** réalisée en HTML, CSS et JavaScript. Elle a été conçue dans le but de **réviser les bases du DOM, des événements, du stockage local et de la manipulation dynamique d'éléments HTML**.
 
+## disponible sur 👉 [https://x-jonica.github.io/static-to-do/]
+
 ## 🎯 Objectifs pédagogiques
 
 - Maîtriser la manipulation du DOM avec JavaScript pur
